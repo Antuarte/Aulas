@@ -31,3 +31,6 @@ switch(estrela){
 }
 
 alert("Obrigada pela preferência, volte sempre!")
+alert("testando mudançaaaaas")
+alert("testando mudançaaaaas")
+alert("testando mudançaaaaas")
